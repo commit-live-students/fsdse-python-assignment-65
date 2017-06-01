@@ -1,4 +1,4 @@
-# Write a Python program to an array converted to a float type.
+# Write a Python program to an array converted to a float type using Numpy.
 
 Sample output:
 
