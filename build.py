@@ -2,6 +2,7 @@ import numpy as np
 
 
 def solution(array):
-    """
-    Enter your code here
-    """
+    fl = np.asfarray(array)
+    return fl
+
+print solution([1, 2, 3, 4])
