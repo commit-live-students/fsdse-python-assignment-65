@@ -1,7 +1,3 @@
 import numpy as np
-
-
 def solution(array):
-    """
-    Enter your code here
-    """
+    return list(np.array(array).astype(float))
