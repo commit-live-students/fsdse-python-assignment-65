@@ -1,7 +1,6 @@
+# Converting array from one data type to the other
 import numpy as np
-
-
 def solution(array):
-    """
-    Enter your code here
-    """
+    a1 = np.array(array)
+    a2 = a1.astype(float)
+    return a2
