@@ -1,7 +1,6 @@
 import numpy as np
 
-
 def solution(array):
-    """
-    Enter your code here
-    """
+    array = np.array(array)
+    array.astype(float)
+    return array
