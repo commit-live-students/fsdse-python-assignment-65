@@ -2,6 +2,5 @@ import numpy as np
 
 
 def solution(array):
-    """
-    Enter your code here
-    """
+    ar = np.array(array, dtype = float)
+    return ar
